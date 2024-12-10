@@ -42,7 +42,7 @@ Feel free to fork this repository, raise issues, or contribute to enhance the pr
 
 ### 📧 Contact  
 For any queries or feedback, reach out at:  
-[Your Email] | [Your Portfolio Link] | [GitHub Profile]  
+[mravanishpal143@gmail.com] | [https://vercel.com/avanishpal143s-projects] | [https://github.com/avanishpal143/]  
 
 ---
 
